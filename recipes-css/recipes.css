@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(175, 25, 25);
+    color: rgb(225, 225, 225);
+    font-family: "Georgia", serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    border-bottom: 3px solid black;
+}
+
+img {
+    display: block;
+    width: 25%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+.lists {
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
