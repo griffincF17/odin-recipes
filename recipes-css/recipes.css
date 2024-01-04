@@ -26,6 +26,10 @@ h3 {
     font-size: 32px;
 }
 
+a {
+    color: rgb(225, 225, 225);
+}
+
 .lists {
     text-align: center;
 }
